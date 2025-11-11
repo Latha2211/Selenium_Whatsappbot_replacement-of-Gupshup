@@ -1,0 +1,23 @@
+{
+  "bots": {
+    "Bot1-GY": {
+      "campuses": ["Georgetown"],
+      "profile": "C:/Chrome-Profiles/Bot1-Georgetown"
+    },
+    "Bot2-ZA": {
+      "campuses": ["Zambia"],
+      "profile": "C:/Chrome-Profiles/Bot2-Zambia"
+    },
+    "Bot3-NIL": {
+      "campuses": ["NULL", "NIL"],
+      "profile": "C:/Chrome-Profiles/Bot3-Other"
+    }
+  },
+  "settings": {
+    "poll_interval": 30,
+    "batch_size": 5,
+    "message_delay_min": 3,
+    "message_delay_max": 6,
+    "anti_lock_interval": 240
+  }
+}
