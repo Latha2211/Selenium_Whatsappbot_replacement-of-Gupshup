@@ -1,0 +1,27 @@
+# ChromeDriver Configuration
+CHROMEDRIVER_PATH=C:/path/to/chromedriver.exe
+
+# Database Configuration
+DB_DRIVER=SQL Server
+DB_SERVER=your-sql-server.database.windows.net
+DB_NAME=YourDatabaseName
+DB_TRUSTED=yes
+
+# File Paths
+MESSAGES_FILE=messages.json
+CONFIG_FILE=config.json
+
+# Email Configuration (SMTP)
+MAIL_SERVER=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USE_TLS=True
+MAIL_USERNAME=your-email@gmail.com
+MAIL_PASSWORD=your-app-specific-password
+MAIL_DEFAULT_SENDER=your-email@gmail.com
+
+# Email Recipients
+REPORT_ERROR_TO=admin@example.com
+REPORT_DAILY_TO=manager@example.com,supervisor@example.com
+
+# Daily Report Schedule (24-hour format HH:MM)
+DAILY_REPORT_TIME=13:04
