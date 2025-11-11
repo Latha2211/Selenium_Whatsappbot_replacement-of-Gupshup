@@ -1,0 +1,13 @@
+{
+  "Doctor of Medicine": "Hi {name}! 🩺\n\nCongratulations on your interest in our Doctor of Medicine program at Texila American University!\n\nWe're excited to help you begin your journey in the medical field. Our MD program offers world-class education with practical training.\n\n📞 For more information, feel free to reach out!\n\nBest regards,\nTexila American University",
+  
+  "Master of Public Health": "Hello {name}! 🏥\n\nThank you for choosing our Master of Public Health program. We're committed to developing the next generation of public health leaders.\n\n✨ Your journey to making a global health impact starts here!\n\nLet's discuss your admission process.\n\nWarm regards,\nTexila American University",
+  
+  "PhD": "Dear {name},\n\nGreetings from Texila American University! 🎓\n\nWe're thrilled about your interest in our PhD program. Our doctoral programs are designed for scholars who want to contribute to their field through research and innovation.\n\n🔬 Let's discuss how we can support your research goals.\n\nBest wishes,\nTexila American University",
+  
+  "Master of Business Administration": "Hi {name}! 💼\n\nThank you for your interest in our MBA program!\n\nOur program is designed for ambitious professionals ready to take their career to the next level. We combine theory with real-world business applications.\n\n📈 Let's explore how our MBA can accelerate your career.\n\nRegards,\nTexila American University",
+  
+  "Bachelor of Medicine Bachelor of Surgery": "Hello {name}! 🩺\n\nWelcome to Texila American University!\n\nOur MBBS program provides comprehensive medical education preparing you for a successful medical career. We're excited to guide you through this journey.\n\n🏥 Let's discuss the admission process and answer any questions you have.\n\nBest regards,\nTexila American University",
+  
+  "Default": "Hi {name}!\n\nThank you for your interest in {program} at Texila American University.\n\nWe're excited to help you achieve your educational goals. Our admissions team is ready to guide you through the next steps.\n\n📞 Phone: {phone}\n\nWe'll be in touch with you soon!\n\nBest regards,\nTexila American University"
+}
