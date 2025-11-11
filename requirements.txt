@@ -1,0 +1,17 @@
+# Core Dependencies
+pyodbc==5.0.1
+pandas==2.1.4
+selenium==4.15.2
+pyperclip==1.8.2
+pyautogui==0.9.54
+
+# Utilities
+python-dotenv==1.0.0
+loguru==0.7.2
+schedule==1.2.0
+
+# Web Scraping & Automation Support
+webdriver-manager==4.0.1
+
+# Optional but recommended
+Pillow==10.1.0  # For screenshot processing
